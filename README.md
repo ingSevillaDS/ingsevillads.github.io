@@ -1,2 +1,2 @@
 # ingsevillads.github.io
-Portfolio - Mauricio Sevilla - Data Scientist
+Portfolio - Juan Maurico Sevilla - Data Scientist / Data data engineer
